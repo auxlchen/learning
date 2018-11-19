@@ -1,0 +1,4 @@
+Simple Baselines for Human Pose Estimation
+1. 反卷积生成热图（Heat map）
+2. 改进了frame to frame匹配算法（提出利用光流法）
+3.  Object Keypoint Similarity (OKS).  相似性度量运用关键点，而且跨越数帧，防止遮挡导致匹配失效
